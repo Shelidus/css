@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("http://shelidus.rf.gd/IMG/banner.jpg") no-repeat center;
+    background: url("https://shelidus.github.io/Style/banner.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
